@@ -12,6 +12,7 @@ The dataset contains 4 files:
 •	Loan_theme_ids.csv
 •	Loan_themes_by_region.csv
 
+
 Approach:
 Exploratory data analysis has been done on the datasets to identify major sectors where loan is given, major lenders etc.
 Further, random forest has been run on the dataset to identify major factors for repayment interval.
